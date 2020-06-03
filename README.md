@@ -2,7 +2,9 @@
 Uses beautifulsoup4 and requests. Scrapes data from flipkart and stores it in a `.csv` file.
 
 ### How
-First, clone the repository and `cd` into itusing `git clone https://github.com/arnu515/python-webscrapper.git && cd python-webscrapper`.  
+First, clone the repository and `cd` into it  
+```git clone https://github.com/arnu515/python-webscrapper.git && cd python-webscrapper```.  
+
 Now, type:  
 ```pip3 install -r requirements.txt```  
 *You can also use a venv if you want*
